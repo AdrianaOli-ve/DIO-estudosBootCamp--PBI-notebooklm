@@ -24,7 +24,7 @@ Fontes selecionadas e carregadas no NotebookLM:
 
 1. NIST. *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. Disponível em: https://nvlpubs.nist.gov/nistpubs/ai/
 2. NIST. *NIST AI RMF Playbook*. Disponível em: https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook
-3. Projeto01-DIO-PBI.pdf
+3. [Projeto01-DIO-PBI.pdf](https://unesdoc.unesco.org/in/documentViewer.xhtml?ark=%2Fark:%2F48223%2Fpf0000390241%2FPDF%2F390241por.pdf&file=%2Fin%2Frest%2FannotationSVC%2FDownloadWatermarkedAttachment%2Fattach_import_0880195e-d225-4872-bc95-e36b69d17343?_=390241por.pdf&id=p::usmarcdef_0000390241&locale=en&multi=true&v=2.1.196&utm_source=chatgpt.com)
 4. Resources | Data Analysis for Social Science (MIT OpenCourseWare 14.310x)
 5. STAT 508 | Applied Data Mining and Statistical Learning (Penn State)
 
