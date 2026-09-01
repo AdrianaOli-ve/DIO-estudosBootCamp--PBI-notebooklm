@@ -193,3 +193,7 @@ Seu objetivo não é concordar comigo, mas expor fraquezas metodológicas de for
 Como aprofundamento, realizei uma rodada adicional de engenharia de prompts no NotebookLM, gerando um manual mais avançado com fronteiras mais nítidas entre análise de dados e ciclo de vida de IA, além de uma comparação entre os algoritmos KNN e SVM.
 
 📄 [Manual Avançado de IA Aplicada à Análise de Dados](./material-complementar.md)
+
+---
+
+*Notebook original no NotebookLM (acesso pode ser restrito): [(https://notebook.google.com/notebook/455f904d-51d6-4a9c-8722-cfe47d97ab83)](https://notebook.google.com/notebook/455f904d-51d6-4a9c-8722-cfe47d97ab83)*
