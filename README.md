@@ -2,6 +2,17 @@
 
 Repositório de estudos do Bootcamp Power BI (Santander/DIO), com o desafio de projeto "Engenharia de Prompts e NotebookLM" — construção de um Caderno Temático usando IA como ferramenta de aprendizagem ativa.
 
+## Acesso rápido
+
+| Material | Onde encontrar |
+| --- | --- |
+| Miniguia completo em Markdown | [Ler o miniguia](./miniguia-ia-dados.md) |
+| Manual em PDF | [Abrir o manual](./manual-ia-analise-dados.pdf) |
+| Projetos práticos de Power BI | [Explorar os desafios](https://github.com/AdrianaOli-ve/DESAFIOSPWB) |
+
+**Neste README:** [Contexto e objetivos](#1-contexto-e-objetivos) · [Fontes](#2-curadoria-de-fontes) · [Engenharia de prompts](#3-engenharia-de-prompts-e-cicatrizes) · [Miniguia](#4-miniguia-de-estudo-entrega-final) · [Materiais](#5-material-complementar)
+
+
 ---
 
 ## 1. Contexto e Objetivos
@@ -59,7 +70,7 @@ Fontes selecionadas e carregadas no NotebookLM:
 
 ### Prompt 02 — Refinamento e diferenciação de conceitos
 
-Aplicando os ajustes definidos após o Prompt 01, uma nova rodada de prompts no NotebookLM gerou um material mais avançado, com uma tabela de auditoria diferenciando explicitamente quais etapas pertencem à análise de dados clássica e quais são exclusivas do ciclo de vida de sistemas de IA. O resultado completo dessa rodada está documentado no arquivo [material-complementar.md](./material-complementar.md).
+Aplicando os ajustes definidos após o Prompt 01, uma nova rodada de prompts no NotebookLM gerou um material mais avançado, com uma tabela de auditoria diferenciando explicitamente quais etapas pertencem à análise de dados clássica e quais são exclusivas do ciclo de vida de sistemas de IA. Os materiais disponíveis para consulta são o [miniguia em Markdown](./miniguia-ia-dados.md) e o [manual em PDF](./manual-ia-analise-dados.pdf).
 
 ---
 
@@ -192,7 +203,8 @@ Seu objetivo não é concordar comigo, mas expor fraquezas metodológicas de for
 
 Como aprofundamento, realizei uma rodada adicional de engenharia de prompts no NotebookLM, gerando um manual mais avançado com fronteiras mais nítidas entre análise de dados e ciclo de vida de IA, além de uma comparação entre os algoritmos KNN e SVM.
 
-📄 [Manual Avançado de IA Aplicada à Análise de Dados](./material-complementar.md)
+- 📄 [Manual de IA Aplicada à Análise de Dados — PDF](./manual-ia-analise-dados.pdf)
+- 📚 [Miniguia de IA Aplicada à Análise de Dados — Markdown](./miniguia-ia-dados.md)
 
 ---
 
